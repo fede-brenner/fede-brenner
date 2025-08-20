@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @fede-brenner
 - 👀 I’m interested in coding
 - 👨‍🎓 Studying Computer Systems Engineering at UAI
-- 🌱 I’m currently learning Front-end web development on my own
+- 🌱 I’m currently working as a Software Developer
 - 📫 How to reach me: fedebrenner@gmail.com
 
 ### On my profile you will find Projects that are practice tests or exams from the university and personal proyects.
